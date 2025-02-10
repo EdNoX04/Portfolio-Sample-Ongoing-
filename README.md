@@ -9,8 +9,7 @@ Welcome to my portfolio! I'm **Neel**, a passionate **developer, cybersecurity e
 🔹 Music creator & producer at **NH Studio**, running the **Nightcore House** YouTube & Spotify channels  
 
 ## **What You’ll Find Here**  
-🚀 Showcasing my projects in **web development, blockchain, and AI**  
-🎵 Featuring my creative work from **NH Studio**  
+🚀 Showcasing my projects in **web development, blockchain, and AI**
 🔒 Sharing insights into **cybersecurity and blockchain innovations**  
 
 Let’s connect and build something amazing! 🚀  
